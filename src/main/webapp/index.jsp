@@ -792,7 +792,7 @@
                 <ul>
                     <li><a href="#"><em class="fas fa-home"></em> Home</a></li>
                     <li class="dropdown">
-                        <a href="#"><em class="fas fa-th-large"></em> Categories <i class="fas fa-chevron-down"></i></a>
+                        <a href="#"><em class="fas fa-th-large"></em> Categories <em class="fas fa-chevron-down"></em></a>
                         <div class="dropdown-content">
                             <a href="#"><em class="fas fa-mobile-alt"></em> Smartphones</a>
                             <a href="#"><em class="fas fa-laptop"></em> Laptops</a>
